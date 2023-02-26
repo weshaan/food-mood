@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Special+Elite&display=swap');
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  position: relative;
+  background-color: #dfd69e;
+  font-family: "Special Elite", sans-serif;
+  overflow-x: hidden;
+}
+
+li {
+  cursor: text;
+  padding: 10px;
+}
+
+h1 {
+  font-family: "Special Elite", sans-serif;
+}
+
+h2,
+h5,
+h4 {
+  font-family: "Merriweather", sans-serif;
+}
+
+h4 {
+  padding: 20px 20px 20px 0;
+}
+
+
+/* Colours */
+
+.img-thumbnail {
+  background-color: #2fbbc5;
+}
+
+.veg-group {
+  background-color: #d87391;
+}
+
+.fruit-group,
+.herbs-group {
+  background-color: #d08959;
+}
+
+.meat-group,
+.grains-group {
+  background-color: #e96adc;
+}
+
+.sugars-group {
+  background-color: #93cea1;
+}
+
+.cereals-group {
+  background-color: #bde120;
+}
+
+.breakfast,
+.lunch-box,
+.snack,
+.snack-group {
+  background-color: #1caed2;
+  color: #fff5ee;
+}
+
+.brown-bg {
+  background-color: #ce7f55;
+  color: #fff5ee;
+  border: 1px solid rgb(3, 24, 11);
+}
+
+.plain-bg {
+  border: 1px solid rgba(8, 34, 17, 0.94);
+}
+
+
+/* Nav Bar */
+
+.dropdown-item.active,
+.dropdown-item:active,
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+  background-color: #5bd71d;
+}
+
+.navbar-brand {
+  max-height: 80px;
+  padding: 0;
+}
+
+.navbar-light .navbar-brand {
+  color: #53351a
+}
+
+.logo {
+  font-size: 1.7em;
+  color: #58531f;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
+}
+
+
+/* Home Section */
+
+.card {
+  border: 0;
+}
+
+.main-body {
+  font-family: "Merriweather", sans-serif;
+  text-align: center;
+  padding: 40px;
+  margin-top: 140px;
+}
+
+.main-body-title {
+  margin-top: 90%;
+}
+
+.card-text {
+  font-family: "Merriweather", sans-serif;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.skin-btn {
+  margin-top: 10px;
+}
+
+.foods-btn {
+  margin-top: 45px;
+}
+
+.routine-btn {
+  margin-top: 45px;
+}
+
+
+/* Skincare */
+
+.skincare-background {
+  background-image: url("../images/Elements/skincare-bg.png");
+  background-size: cover;
+}
+
+.problem-areas {
+  margin-top: 60px;
+  padding-left: 40px;
+}
+
+#skincare {
+  margin-top: 50px;
+}
+
+
+/* Safe Foods */
+
+#safefoods {
+  margin: 50px;
+}
+
+#mealplans {
+  padding: 50px 0;
+}
+
+
+/* Routine */
+
+#routine {
+  background-color: #cc9042;
+  padding: 40px;
+}
+
+.routine-lists {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.routine-lists li {
+  padding: 5px;
+}
+
+@media (min-width: 576px) {
+  .routine-btn {
+    margin-top: 37px;
+  }
+  .foods-btn {
+    margin-top: 14px;
+  }
+  .skin-btn {
+    margin-top: 0;
+  }
+}
