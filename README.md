@@ -1,7 +1,7 @@
 # food-mood
 
 
-  <img src="https://media.giphy.com/media/1wn4W0NiirVR1fUbbP/giphy.gif" align="left" alt="ERROR: cant load image" />
+  <img src="https://media.giphy.com/media/1wn4W0NiirVR1fUbbP/giphy.gif" align="left" hspace="10"  alt="ERROR: cant load image" />
   <p align="top">
 A simple website the provides calorie count, diet plan and routine for a better lifestyle.
 Project for makathon-5 organised by mlsc at Thapar Institute of Technology, Patiala.
@@ -9,8 +9,11 @@ Project for makathon-5 organised by mlsc at Thapar Institute of Technology, Pati
 ### Team Memebers:
 
 > Arihant Thakur(team leader)
+  
 > Madhav Mahajan
+  
 > Pranav Garg
+  
 > Eshaan Walia
 
 
