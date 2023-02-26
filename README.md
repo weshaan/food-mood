@@ -1,7 +1,7 @@
 # food-mood
 
 
-  <img src="https://media.giphy.com/media/1wn4W0NiirVR1fUbbP/giphy.gif" align="right" width="300"
+  <img src="https://media.giphy.com/media/1wn4W0NiirVR1fUbbP/giphy.gif" align="right" width="270"
   height="auto" alt="ERROR: cant load image" />
   <p align="top">
 <b>A simple website the provides calorie count, diet plan and routine for a better lifestyle.
