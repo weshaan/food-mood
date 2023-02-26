@@ -6,7 +6,7 @@ html {
 
 body {
   position: relative;
-  background-color: #83d06f;
+  background-color: #dfd69e;
   font-family: "Special Elite", sans-serif;
   overflow-x: hidden;
 }
@@ -68,7 +68,7 @@ h4 {
 }
 
 .brown-bg {
-  background-color: #197719;
+  background-color: #ce7f55;
   color: #fff5ee;
   border: 1px solid rgb(3, 24, 11);
 }
@@ -95,12 +95,12 @@ h4 {
 }
 
 .navbar-light .navbar-brand {
-  color: #ea0b0b
+  color: #53351a
 }
 
 .logo {
   font-size: 1.7em;
-  color: #10d514;
+  color: #58531f;
   -o-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
@@ -182,7 +182,7 @@ h4 {
 /* Routine */
 
 #routine {
-  background-color: #15652b;
+  background-color: #cc9042;
   padding: 40px;
 }
 
